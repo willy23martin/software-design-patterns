@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.2.4</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>com.design.patterns</groupId>
+    <artifactId>software-design-patterns</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>software-design-patterns</name>
+    <description>software-design-patterns</description>
+
+    <packaging>pom</packaging>
+
+    <properties>
+        <java.version>17</java.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <scope>runtime</scope>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <modules>
+        <!-- CREATIONAL PATTERNS -->
+        <module>abstractfactory-creational-pattern</module>
+        <module>builder-creational-pattern</module>
+        <module>factory-creational-pattern</module>
+        <module>prototype-creational-pattern</module>
+        <module>singleton-creational-pattern</module>
+        <!-- STRUCTURAL PATTERNS -->
+        <module>adapter-structural-pattern</module>
+        <module>bridge-structural-pattern</module>
+        <module>composite-structural-pattern</module>
+        <module>decorator-structural-pattern</module>
+        <module>facade-structural-pattern</module>
+        <module>flyweight-structural-pattern</module>
+        <module>proxy-structural-pattern</module>
+        <!-- BEHAVIORAL PATTERNS -->
+        <module>chainofresponsibility-behavioral-pattern</module>
+        <module>command-behavioral-pattern</module>
+        <module>interpreter-behavioral-pattern</module>
+        <module>iterator-behavioral-pattern</module>
+        <module>mediator-behavioral-pattern</module>
+        <module>memento-behavioral-pattern</module>
+        <module>observer-behavioral-pattern</module>
+        <module>state-behavioral-pattern</module>
+        <module>strategy-behavioral-pattern</module>
+        <module>templatemethod-behavioral-pattern</module>
+        <module>visitor-behavioral-pattern</module>
+    </modules>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
