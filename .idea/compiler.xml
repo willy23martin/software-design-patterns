@@ -34,30 +34,30 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="abstractfactory-creational-pattern" options="-parameters" />
-      <module name="adapter-structural-pattern" options="-parameters" />
-      <module name="bridge-structural-pattern" options="-parameters" />
-      <module name="builder-creational-pattern" options="-parameters" />
-      <module name="chainofresponsibility-behavioral-pattern" options="-parameters" />
-      <module name="command-behavioral-pattern" options="-parameters" />
-      <module name="composite-structural-pattern" options="-parameters" />
-      <module name="decorator-structural-pattern" options="-parameters" />
-      <module name="facade-structural-pattern" options="-parameters" />
-      <module name="factory-creational-pattern" options="-parameters" />
-      <module name="flyweight-structural-pattern" options="-parameters" />
-      <module name="interpreter-behavioral-pattern" options="-parameters" />
-      <module name="iterator-behavioral-pattern" options="-parameters" />
-      <module name="mediator-behavioral-pattern" options="-parameters" />
-      <module name="memento-behavioral-pattern" options="-parameters" />
-      <module name="observer-behavioral-pattern" options="-parameters" />
-      <module name="prototype-creational-pattern" options="-parameters" />
-      <module name="proxy-structural-pattern" options="-parameters" />
-      <module name="singleton-creational-pattern" options="-parameters" />
+      <module name="abstractfactory-creational-pattern" options="" />
+      <module name="adapter-structural-pattern" options="" />
+      <module name="bridge-structural-pattern" options="" />
+      <module name="builder-creational-pattern" options="" />
+      <module name="chainofresponsibility-behavioral-pattern" options="" />
+      <module name="command-behavioral-pattern" options="" />
+      <module name="composite-structural-pattern" options="" />
+      <module name="decorator-structural-pattern" options="" />
+      <module name="facade-structural-pattern" options="" />
+      <module name="factory-creational-pattern" options="" />
+      <module name="flyweight-structural-pattern" options="" />
+      <module name="interpreter-behavioral-pattern" options="" />
+      <module name="iterator-behavioral-pattern" options="" />
+      <module name="mediator-behavioral-pattern" options="" />
+      <module name="memento-behavioral-pattern" options="" />
+      <module name="observer-behavioral-pattern" options="" />
+      <module name="prototype-creational-pattern" options="" />
+      <module name="proxy-structural-pattern" options="" />
+      <module name="singleton-creational-pattern" options="" />
       <module name="software-design-patterns" options="" />
-      <module name="state-behavioral-pattern" options="-parameters" />
-      <module name="strategy-behavioral-pattern" options="-parameters" />
-      <module name="templatemethod-behavioral-pattern" options="-parameters" />
-      <module name="visitor-behavioral-pattern" options="-parameters" />
+      <module name="state-behavioral-pattern" options="" />
+      <module name="strategy-behavioral-pattern" options="" />
+      <module name="templatemethod-behavioral-pattern" options="" />
+      <module name="visitor-behavioral-pattern" options="" />
     </option>
   </component>
 </project>
