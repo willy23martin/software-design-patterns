@@ -1,13 +1,11 @@
-# Design Patterns
-
-### Creational Patterns - AbstractFactory
+# Creational Patterns - AbstractFactory
 
 In order to deal with the problem of incompatible interfaces, **AbstractFactory Pattern** allows convert the one incompatible into another that the client expects:
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://a.co/d/b77puMG)
 * [CKJM Metrics](https://www.spinellis.gr/sw/ckjm/doc/indexw.html)
 
-#### CKJM Metrics Analysis of using **AbstractFactory** Pattern:
+## CKJM Metrics Analysis of using **AbstractFactory** Pattern:
 
 The following summary shows us how **CKJM Metrics**  have been affected in this project after having applied the **AbstractFactory Pattern**:
 
