@@ -34,3 +34,10 @@ The following summary shows us how **CKJM Metrics**  have been affected in this 
 --- 
 
 ![DESIGN PATTERNS - CKJM - Creational Pattern - Factory Method.png](src%2Fmain%2Fresources%2Fstatic%2FDESIGN%20PATTERNS%20-%20CKJM%20-%20Creational%20Pattern%20-%20Factory%20Method.png)
+
+---
+
+## Related Patterns
+1. [Abstract Factory](../abstractfactory-creational-pattern)
+2. [Template Method](../templatemethod-behavioral-pattern)
+3. [Prototype](../prototype-creational-pattern)

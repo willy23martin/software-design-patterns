@@ -1,6 +1,6 @@
 # Structural Patterns - Adapter
 
-In order to deal with the problem of incompatible interfaces, **Adapter Pattern ** (also known as **Wrapper**) allows convert the one incompatible into another that the client expects:
+In order to deal with the problem of incompatible interfaces, **Adapter Pattern** (also known as **Wrapper**) allows convert the one incompatible into another that the client expects:
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://a.co/d/b77puMG)
 * [CKJM Metrics](https://www.spinellis.gr/sw/ckjm/doc/indexw.html)
@@ -30,3 +30,10 @@ The following summary shows us how **CKJM Metrics**  have been affected in this 
 ---
 
 ![Design Patterns - CKJM - Metrics - Adapter Pattern.png](src%2Fmain%2Fresources%2Fstatic%2FDesign%20Patterns%20-%20CKJM%20-%20Metrics%20-%20Adapter%20Pattern.png)
+
+---
+
+## Related Patterns
+1. [Bridge](../bridge-structural-pattern)
+2. [Decorator](../decorator-structural-pattern)
+3. [Proxy](../proxy-structural-pattern)
