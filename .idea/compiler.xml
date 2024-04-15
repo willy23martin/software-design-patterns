@@ -35,7 +35,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="abstractfactory-creational-pattern" options="" />
-      <module name="adapter-structural-pattern" options="" />
+      <module name="adapter-structural-pattern" options="-parameters" />
       <module name="bridge-structural-pattern" options="" />
       <module name="builder-creational-pattern" options="" />
       <module name="chainofresponsibility-behavioral-pattern" options="" />
