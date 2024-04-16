@@ -32,5 +32,5 @@ The following summary shows us how **CKJM Metrics**  have been affected in this 
 ---
 
 ## Related Patterns
-1. [AbstractFactory](../abstractfactory-creational-pattern)
-2. [Adapter](../adapter-structural-pattern)
+1. [AbstractFactory](../abstractfactory-creational-pattern/HELP.md)
+2. [Adapter](../adapter-structural-pattern/HELP.md)

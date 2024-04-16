@@ -34,6 +34,6 @@ The following summary shows us how **CKJM Metrics**  have been affected in this 
 ---
 
 ## Related Patterns
-1. [Bridge](../bridge-structural-pattern)
-2. [Decorator](../decorator-structural-pattern)
-3. [Proxy](../proxy-structural-pattern)
+1. [Bridge](../bridge-structural-pattern/HELP.md)
+2. [Decorator](../decorator-structural-pattern/HELP.md)
+3. [Proxy](../proxy-structural-pattern/HELP.md)
