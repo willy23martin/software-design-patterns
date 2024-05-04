@@ -39,7 +39,7 @@
       <module name="bridge-structural-pattern" options="-parameters" />
       <module name="builder-creational-pattern" options="" />
       <module name="chainofresponsibility-behavioral-pattern" options="" />
-      <module name="command-behavioral-pattern" options="" />
+      <module name="command-behavioral-pattern" options="-parameters" />
       <module name="composite-structural-pattern" options="" />
       <module name="decorator-structural-pattern" options="-parameters" />
       <module name="facade-structural-pattern" options="" />
