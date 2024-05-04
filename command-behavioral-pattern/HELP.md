@@ -20,14 +20,14 @@ The following summary shows us how **CKJM Metrics**  have been affected in this 
 
 |                           CKJM Metric                            | Without the Pattern | With the Pattern |
 |:----------------------------------------------------------------:|:-------------------:|:----------------:|
-|               **WMC**: Weighted methods per class                |                     |                  |
-|                **DIT**: Depth of Inheritance Tree                |                     |                  |
-|                   **NOC**: Number of Children                    |                     |                  |
-|             **CBO**: Coupling between object classes             |                     |                  |
-|                  **RFC**: Response for a Class                   |                     |                  |
-|              **LCOM**: Lack of cohesion in methods               |                     |                  |
-|           **Ca**: Afferent coupling (not a C&K metric)           |                     |                  |
-| **NPM**: Number of Public Methods for a class (not a C&K metric) |                     |                  |
+|               **WMC**: Weighted methods per class                |        3.11         |                  |
+|                **DIT**: Depth of Inheritance Tree                |          1          |                  |
+|                   **NOC**: Number of Children                    |          0          |                  |
+|             **CBO**: Coupling between object classes             |        3.66         |                  |
+|                  **RFC**: Response for a Class                   |        6.44         |                  |
+|              **LCOM**: Lack of cohesion in methods               |        0.88         |                  |
+|           **Ca**: Afferent coupling (not a C&K metric)           |        1.11         |                  |
+| **NPM**: Number of Public Methods for a class (not a C&K metric) |        2.55         |                  |
 
 
 ---
