@@ -12,23 +12,22 @@ In order to deal with the problem of incompatible interfaces, **Strategy Pattern
 
 ---
 
-
 ## CKJM Metrics Analysis of using **Strategy** Pattern:
 
 The following summary shows us how **CKJM Metrics**  have been affected in this project after having applied the **Strategy Pattern**:
 
 |                           CKJM Metric                            | Without the Pattern | With the Pattern |
 |:----------------------------------------------------------------:|:-------------------:|:----------------:|
-|               **WMC**: Weighted methods per class                |                     |                  |
-|                **DIT**: Depth of Inheritance Tree                |                     |                  |
-|                   **NOC**: Number of Children                    |                     |                  |
-|             **CBO**: Coupling between object classes             |                     |                  |
-|                  **RFC**: Response for a Class                   |                     |                  |
-|              **LCOM**: Lack of cohesion in methods               |                     |                  |
-|           **Ca**: Afferent coupling (not a C&K metric)           |                     |                  |
-| **NPM**: Number of Public Methods for a class (not a C&K metric) |                     |                  |
+|               **WMC**: Weighted methods per class                |         1.8         |        2         |
+|                **DIT**: Depth of Inheritance Tree                |          1          |        1         |
+|                   **NOC**: Number of Children                    |          0          |        0         |
+|             **CBO**: Coupling between object classes             |          3          |       3.16       |
+|                  **RFC**: Response for a Class                   |         3.8         |       4.3        |
+|              **LCOM**: Lack of cohesion in methods               |         0.8         |       1.6        |
+|           **Ca**: Afferent coupling (not a C&K metric)           |         1.4         |       1.5        |
+| **NPM**: Number of Public Methods for a class (not a C&K metric) |         1.6         |       1.6        |
 
-
+![DesignPatterns-Behavior-Strategy-CKJM Metrics.png](src%2Fmain%2Fresources%2Fstatic%2FDesignPatterns-Behavior-Strategy-CKJM%20Metrics.png)
 
 ---
 
