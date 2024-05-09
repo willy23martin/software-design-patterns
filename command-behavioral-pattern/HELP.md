@@ -1,6 +1,4 @@
-# Design Patterns
-
-### Behavioral Patterns - Command
+# Behavioral Patterns - Command
 
 In order to deal with the problem of incompatible interfaces, **Command Pattern** allows convert the one incompatible into another that the client expects:
 
@@ -14,7 +12,7 @@ In order to deal with the problem of incompatible interfaces, **Command Pattern*
 
 ---
 
-#### CKJM Metrics Analysis of using **Command** Pattern:
+## CKJM Metrics Analysis of using **Command** Pattern:
 
 The following summary shows us how **CKJM Metrics**  have been affected in this project after having applied the **Command Pattern**:
 
