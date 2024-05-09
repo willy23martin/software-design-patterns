@@ -1,13 +1,19 @@
-# Design Patterns
-
-### Behavioral Patterns - Strategy
+# Behavioral Patterns - Strategy
 
 In order to deal with the problem of incompatible interfaces, **Strategy Pattern** allows convert the one incompatible into another that the client expects:
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://a.co/d/b77puMG)
 * [CKJM Metrics](https://www.spinellis.gr/sw/ckjm/doc/indexw.html)
 
-#### CKJM Metrics Analysis of using **Strategy** Pattern:
+## Without the Pattern
+![DesignPatterns-Behavioral-Strategy-Without.png](src%2Fmain%2Fresources%2Fstatic%2FDesignPatterns-Behavioral-Strategy-Without.png)
+## With the Pattern
+![DesignPatterns-Behavior-Strategy-WIth.png](src%2Fmain%2Fresources%2Fstatic%2FDesignPatterns-Behavior-Strategy-WIth.png)
+
+---
+
+
+## CKJM Metrics Analysis of using **Strategy** Pattern:
 
 The following summary shows us how **CKJM Metrics**  have been affected in this project after having applied the **Strategy Pattern**:
 
@@ -22,3 +28,12 @@ The following summary shows us how **CKJM Metrics**  have been affected in this 
 |           **Ca**: Afferent coupling (not a C&K metric)           |                     |                  |
 | **NPM**: Number of Public Methods for a class (not a C&K metric) |                     |                  |
 
+
+
+---
+
+## Related Patterns
+1. [Bridge](../bridge-structural-pattern/HELP.md)
+2. [State](../state-behavioral-pattern/HELP.md)
+3. [Adapter](../adapter-structural-pattern/HELP.md)
+4. [Command](../command-behavioral-pattern/HELP.md)
